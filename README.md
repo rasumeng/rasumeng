@@ -9,9 +9,7 @@ Currently building **Tech Insights by Robert (TIR)** — an open learning platfo
 
 ### 🚀 Featured Projects
 - [**Tech Insights by Robert (TIR)**](https://github.com/TechInsightsbyRobert) — Educational organization teaching Python & AI  
-- [**Mav Shell (msh)**](https://github.com/rasumeng/mav-shell) — Custom Unix-style shell in C  
-- [**Pocket Tutor**](#) *(in development)* — AI-powered study companion  
-- [**Saxophone Notes Trainer**](#) *(personal project)*  
+- [**Mav Shell (msh)**](https://github.com/rasumeng/Mav-Shell-msh---A-Mini-Unix-Shell) — Custom Unix-style shell in C  
 
 ---
 
