@@ -21,7 +21,7 @@ Currently building **Tech Insights by Robert (TIR)** — an open learning platfo
 ---
 
 ### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/robertasumeng) • [Kaggle](https://www.kaggle.com/robertasumeng) • [GitHub](https://github.com/rasumeng)
+[LinkedIn](https://www.linkedin.com/in/robertasumeng) • [Kaggle](https://www.kaggle.com/robertasumeng) • [More Links](https://robertasumeng.carrd.co)
 
 ---
 
